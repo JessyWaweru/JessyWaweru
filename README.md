@@ -26,6 +26,7 @@ My actuarial background shows up in everything I ship: ShopCrawl ranks deals wit
 
 | | Project | What it does | Stack |
 |:---:|---|---|---|
+| 🌿 | **GoHerbal** · [live](https://goherbal.health) · [api](https://github.com/JessyWaweru/goherbal-shop) · [storefront](https://github.com/JessyWaweru/herb-root-frontend) | **Client app in production**: herbal shop with M-Pesa STK push & Paystack checkout, HMAC-verified idempotent payment webhooks, map-priced rider delivery and order tracking | Django 6 · DRF · Paystack · React 19 · TanStack Query |
 | 🛍️ | **ShopCrawl** · [live](https://shopcrawl.onrender.com/) · [api](https://github.com/JessyWaweru/shopcrawl-api) · [web](https://github.com/JessyWaweru/shopcrawl-web) | Compares Amazon, Jumia, Kilimall & Shopify and ranks offers with **SmartRank™**, a weighted cost/trust/speed score with a risk penalty | Django · DRF · React · Tailwind |
 | 🩺 | **DocRank** · [live](https://doctor-search-frontend.onrender.com) · [api](https://github.com/JessyWaweru/docrank-api) · [web](https://github.com/JessyWaweru/docrank-web) | Community-rated doctor directory for Nairobi, Kisumu & Mombasa, with OTP email sign-up and optimistic UI | DRF · JWT · Supabase · React 19 · TS |
 | 📊 | **Actuarial Risk Engine** · [api docs](https://actuarial-risk-model-api.onrender.com/docs) · [repo](https://github.com/JessyWaweru/actuarial-risk-engine) | Monte Carlo, VaR/TVaR, Mack chain ladder, EVT, ruin theory, cat bonds and weather-index insurance, all as a REST API | Python · NumPy · SciPy · FastAPI |
